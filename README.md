@@ -2,7 +2,7 @@
 
 I'm getting my BA in Computer Science and Applied Statistics at the University of Virginia and currently am working at [theCourseForum]([https://nutanix.com](https://thecourseforum.com/)).
 
-You can send me an email at [zeq5dh@virginia.edu](zeq5dh@virginia.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-d-kohler/) if you want learn more about me 😄
+You can send me an email at [zeq5dh@virginia.edu](zeq5dh@virginia.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-d-kohler/) if you want to reach out 😄
 
 ### Connect with me:
 <p align="left">
