@@ -1,5 +1,13 @@
-### Hi there 👋
+## 👋 Hello! I'm Lucas.
 
+I'm getting my BA in Computer Science and Applied Statistics at the University of Virginia and currently am working at [theCourseForum]([https://nutanix.com](https://thecourseforum.com/)).
+
+You can send me an email at [zeq5dh@virginia.edu](zeq5dh@virginia.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-d-kohler/) if you want learn more about me 😄
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/lucas-d-kohler/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ldkohler"/></a>
+</p>
 <!--
 **ldkohler/ldkohler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
