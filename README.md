@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Lucas.
 
-I'm getting my BA in Computer Science and Applied Statistics at the University of Virginia and currently am working at [theCourseForum](https://thecourseforum.com/) and researching at the [UVA Biocomplexity Institute](https://biocomplexity.virginia.edu/our-research).
+I'm getting my BA in Computer Science and Applied Statistics at the University of Virginia and currently am working at [theCourseForum](https://thecourseforum.com/) and am an ML researcher for the [UVA Biocomplexity Institute](https://biocomplexity.virginia.edu/our-research).
 
 You can send me an email at [zeq5dh@virginia.edu](zeq5dh@virginia.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-d-kohler/) if you want to reach out 😄
 
