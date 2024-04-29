@@ -2,11 +2,11 @@
 
 I'm getting my BA in Computer Science and Applied Statistics at the University of Virginia and currently am working at [theCourseForum](https://thecourseforum.com/) and am an ML researcher for the [UVA Biocomplexity Institute](https://biocomplexity.virginia.edu/our-research).
 
-You can send me an email at [zeq5dh@virginia.edu](zeq5dh@virginia.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-d-kohler/) if you want to reach out 😄
+You can send me an email at [zeq5dh@virginia.edu](zeq5dh@virginia.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/ldkohler/) if you want to reach out 😄
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-d-kohler/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ldkohler"/></a>
+<a href="https://www.linkedin.com/in/ldkohler/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ldkohler"/></a>
 </p>
 <!--
 **ldkohler/ldkohler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
